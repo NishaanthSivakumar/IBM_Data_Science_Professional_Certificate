@@ -76,3 +76,18 @@ These courses form the foundation for the capstone project and demonstrate the p
 ```bash
 git https://github.com/NishaanthSivakumar/IBM_Data_Science_Professional_Certificate.git
 cd IBM_Data_Science_Professional_Certificate
+```
+
+---
+
+## Conclusion
+This project demonstrates an end-to-end data science workflow — from data collection and analysis to machine learning — to generate meaningful insights and predictions.
+
+
+---
+
+## Acknowledgements
+	•	IBM Applied Data Science Professional Certificate
+	•	SpaceX API and publicly available datasets
+
+---
